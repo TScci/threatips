@@ -4,7 +4,7 @@
 
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/threatips.txt ```
 
-* IP分割，1000行为1组
+* IP分割1000行为1组
   
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset1k.txt ```
 
