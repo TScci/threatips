@@ -11,3 +11,5 @@
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset2k.txt ```
 
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset3k.txt ```
+
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset4k.txt ```
