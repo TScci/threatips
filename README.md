@@ -24,9 +24,7 @@
 
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset2k.txt ```
 
-``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset3k.txt ```
-
-``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset4k.txt ```
+...
 
 ## Gitee源
 
@@ -34,6 +32,4 @@
 
 ``` wget https://gitee.com/tscci/threatips/raw/main/ipset2k.txt ```
 
-``` wget https://gitee.com/tscci/threatips/raw/main/ipset3k.txt ```
-
-``` wget https://gitee.com/tscci/threatips/raw/main/ipset4k.txt ```
+...
