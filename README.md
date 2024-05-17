@@ -36,8 +36,16 @@
 
 ## Gitee源
 
-``` wget https://gitee.com/tscci/threatips/raw/main/ipset1k.txt ```
+[HFish蜜罐情报]
 
-``` wget https://gitee.com/tscci/threatips/raw/main/ipset2k.txt ```
+``` wget https://gitee.com/tscci/threatips/raw/main/hfish/ipset1k.txt ```
+
+``` wget https://gitee.com/tscci/threatips/raw/main/hfish/ipset2k.txt ```
+
+[中科大IP黑名单]
+
+``` wget https://gitee.com/tscci/threatips/raw/main/ustc/ustc1k.txt ```
+
+``` wget https://gitee.com/tscci/threatips/raw/main/ustc/ustc2k.txt ```
 
 ...
