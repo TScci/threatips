@@ -4,13 +4,17 @@
   
   * 可应用于雷池Safeline IP组订阅功能。
 
-## Github源
+## Github数据
 
 ``` wget https://raw.githubusercontent.com/TScci/threatips/main/threatips.txt ```
 
-## Gitee源
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/ustc_ipv4.txt ```
+
+## Gitee数据
 
 ``` wget https://gitee.com/tscci/threatips/raw/main/threatips.txt ```
+
+``` wget https://gitee.com/tscci/threatips/raw/main/ustc_ipv4.txt ```
 
 # [雷池SafelineIP数量限制问题](https://github.com/chaitin/SafeLine/issues/632)
 
@@ -18,7 +22,7 @@
 
 * 解决办法:通过定时任务将IP按1000为一组拆分。
 
-## Github源
+## Github订阅源
 
 [HFish蜜罐情报]
   
@@ -34,7 +38,7 @@
 
 ...
 
-## Gitee源
+## Gitee订阅源
 
 [HFish蜜罐情报]
 
