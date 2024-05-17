@@ -19,10 +19,18 @@
 * 解决办法:通过定时任务将IP按1000为一组拆分。
 
 ## Github源
-  
-``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset1k.txt ```
 
-``` wget https://raw.githubusercontent.com/TScci/threatips/main/ipset2k.txt ```
+[HFish蜜罐情报]
+  
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/hfish/ipset1k.txt ```
+
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/hfish/ipset2k.txt ```
+
+[中科大IP黑名单]
+
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/ustc/ustc1k.txt ```
+
+``` wget https://raw.githubusercontent.com/TScci/threatips/main/ustc/ustc2k.txt ```
 
 ...
 
